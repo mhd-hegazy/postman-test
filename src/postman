@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "version": "dev",
+    "version": "v3.1",
     "title": "viro",
     "license": {
       "name": "MIT"
