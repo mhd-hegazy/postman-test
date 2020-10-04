@@ -16,7 +16,7 @@
     "/user": {
       "get": {
         "summary": "Details about a user",
-        "operationId": "listUser",
+        "operationId": "listUser . ",
         "tags": [
           "user"
         ],
